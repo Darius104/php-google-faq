@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 90px;
+    width: 100%;
+    border-bottom: 1px solid gray;
+    padding: 5px;
+}
+#uno{
+    color: #4285f4;
+}
+#due{
+    color: red;
+}
+#tre{
+    color: #fbbc05;
+}
+#quattro{
+    color: #4285f4;
+}
+#cinque{
+    color: green;
+}
+#sei{
+    color: red;
+}
+span{
+    font-size: 30px;
+}
+li{
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px;
+    padding-bottom: 13px;
+}
+.active{
+    color: #4285f4;
+    border-bottom: 4px solid #4285f4;
+}
+
+/* main */
+
+.container{
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+}
+.h2{
+    margin-bottom: 20px;
+}
+.p{
+    margin-bottom: 20px;
+}
