@@ -50,7 +50,19 @@ li{
 }
 .h2{
     margin-bottom: 20px;
+    margin-top: 100px;
 }
 .p{
     margin-bottom: 20px;
+}
+
+/* footer */
+
+footer{
+    height: 50px;
+    width: 100%;
+    background-color: gray;
+}
+.footer{
+    font-size: x-small;
 }
